@@ -1,0 +1,63 @@
+.header_background{
+    background-image: url("https://image.tmdb.org/t/p/original//s94NjfKkcSczZ1FembwmQZwsuwY.jpg");
+      background-size: cover;
+      background-position: top;
+      position: relative;
+    width: 100%;
+    height: max-content;
+    /* filter: brightness(80%); */
+    /* display: flex; */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
+  z-index: 1;
+}
+
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+     position: relative;
+  z-index: 2;
+}
+.header_content{
+    /* background-color: pink; */
+    width: 40%;
+    display: flex;
+    gap: 20px;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 50px;
+    color: #FFFFFF;
+
+    & ul{
+        display: flex;
+        gap: 20px;
+        list-style: none;
+        cursor: pointer;
+        color: #999fa3;
+}
+
+    
+    }
+
+.listItems li:first-child{
+    color: #4C97CC;
+}
+.Header_icon{
+    margin-right: 40px;
+    background-color: rgb(133, 131, 131);
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

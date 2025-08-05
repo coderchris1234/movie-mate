@@ -15,9 +15,10 @@ const TrendingMovies = () => {
                 <div className="u">
                   <p>{movie.year}</p>
                   <p className="d"><FaStar size={18} color="#ffffff" />{movie.rating}</p>
+                  <p className="genre">{movie.genre}</p>
                 </div>
               </div>
-              <p className="genre">{movie.genre}</p>
+              {/* <p className="genre">{movie.genre}</p> */}
             </div>
           </div>
         ))}

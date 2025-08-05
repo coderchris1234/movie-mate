@@ -1,6 +1,10 @@
 import "./HeaderStyle.css";
-// import { FaSearch } from "react-icons/fa";
 import { HiOutlineSearch } from "react-icons/hi";
+import { BiCameraMovie } from "react-icons/bi";
+import { FaStar } from "react-icons/fa";
+import { FaPlay } from "react-icons/fa";
+import { MdMovie } from "react-icons/md";
+// import Button from "../Components/Button";
 
 const Header = () => {
   return (
@@ -17,14 +21,46 @@ const Header = () => {
             </ul>
           </div>
 
-
           <div className="Header_icon">
-            {/* <FaSearch size={20} color="#b0b0b0" className="Header_icon"/> */}
-            <HiOutlineSearch size={20} color="#fff7f7ff" />
+            <HiOutlineSearch size={20} color="#fff7f7ff" style={{cursor: "pointer"}} />
           </div>
         </div>
-      </div>
+        <section className="Hero_container">
+          <h2 className="Hero_movie_name">The Fantastic 4: First Steps</h2>
 
+          <div className="hero_rating">
+            <div className="rating">
+                <div className="BiCameraMovies">
+                    <BiCameraMovie size={28} color="#fff" style={{
+                        paddingLeft: '10px'
+                    }}  />
+                </div>
+              
+              <span className="FaStar">
+                <FaStar size={24} color="#ffffff" /> 7.3
+              </span>
+              <ul className="rating_list">
+                <li>Adventure</li>
+                <li>Science</li>
+                <li>Fiction</li>
+              </ul>
+            </div>
+            <p>
+              Fantastic Four is a thrilling superhero movie about four
+              scientists who gain extraordinary powers after a space mission
+              goes wrong. With their new abilities—stretching, invisibility,
+              fire control, and rock-like strength—they must come together as a
+              team to stop a powerful enemy and save the world. It’s
+              action-packed, fun, and shows how teamwork makes heroes.
+            </p>
+          </div>
+           <div className="button_link">
+             <span className="watch_now"><FaPlay size={20} 
+              className="faplay" />Watch Now</span>
+             <span className="trailer">Trailer</span>
+            </div>
+        </section>
+      </div>
     </>
   );
 };

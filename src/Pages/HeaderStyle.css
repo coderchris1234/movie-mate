@@ -15,7 +15,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.753));
   z-index: 1;
 }
 
@@ -25,7 +25,7 @@
     align-items: center;
     width: 100%;
      position: relative;
-  z-index: 2;
+    z-index: 2;
 }
 .header_content{
     /* background-color: pink; */
@@ -36,6 +36,7 @@
     align-items: center;
     margin-left: 50px;
     color: #FFFFFF;
+    margin-top: 20px;
 
     & ul{
         display: flex;
@@ -48,7 +49,15 @@
     
     }
 
+.listItems{
+    transition: color 0.3s ease-in-out;
+}
+
 .listItems li:first-child{
+    color: #4C97CC;
+}
+
+.listItems li:hover{
     color: #4C97CC;
 }
 .Header_icon{
@@ -60,4 +69,118 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 20px;
+}
+
+.Hero_container{
+    /* background-color: red; */
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 45px;
+    margin-top: 250px;
+    padding: 20px;
+     z-index: 3;
+  position: relative;
+
+
+  & p{
+    color: rgba(211, 211, 211, 0.699);
+    line-height: 23px;
+  }
+}
+.Hero_movie_name{
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-size: 40px;
+}
+.Hero_movie_name:hover{
+ color: #4C97CC;
+  transform: scale(1.05);
+}
+
+.hero_rating{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.rating{
+    display: flex;
+    /* background-color: pink; */
+    width: 70%;
+    gap: 20px;
+    align-items: center;
+    margin-top: 5px;
+
+    & .rating_list{
+        display: flex;
+        list-style: none;
+        gap: 10px;
+        cursor: pointer;
+        transition: color 0.3s ease-in-out;
+        color: #999fa3;
+    }
+}
+.rating_list li:hover{
+    color: #FFFFFF;
+}
+
+.BiCameraMovies{
+    background-color: #4C97CC;
+    width: 40px;
+    margin: 10px 5px;
+    border-radius: 5px;
+}
+.FaStar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    color: #fff;
+}
+.button_link{
+    display: flex;
+    gap: 50px;
+}
+.watch_now{
+    padding: 8px 35px;
+    border-radius: 20px;
+    background-color: none;
+    border: 2px solid  #4C97CC;
+    margin-top: 20px;
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    color: #4C97CC;
+    text-wrap: nowrap;
+    transition: color 0.3s ease-in-out;
+}
+
+
+.watch_now:hover{
+    background-color: #4C97CC;
+    color: #fff;
+}
+.trailer{
+    padding: 8px 55px;
+    border-radius: 20px;
+    background-color: none;
+    border: 2px solid  #4C97CC;
+    margin-top: 20px;
+    display: inline-block;
+    color: #4C97CC;
+    font-size: 14px;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+.trailer:hover{
+    background-color: #4C97CC;
+    color: #fff;
 }

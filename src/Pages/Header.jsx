@@ -3,7 +3,7 @@ import { HiOutlineSearch } from "react-icons/hi";
 import { BiCameraMovie } from "react-icons/bi";
 import { FaStar } from "react-icons/fa";
 import { FaPlay } from "react-icons/fa";
-import { MdMovie } from "react-icons/md";
+import { TbMovie } from "react-icons/tb";
 // import Button from "../Components/Button";
 
 const Header = () => {
@@ -22,7 +22,11 @@ const Header = () => {
           </div>
 
           <div className="Header_icon">
-            <HiOutlineSearch size={20} color="#fff7f7ff" style={{cursor: "pointer"}} />
+            <HiOutlineSearch
+              size={20}
+              color="#fff7f7ff"
+              style={{ cursor: "pointer" }}
+            />
           </div>
         </div>
         <section className="Hero_container">
@@ -30,12 +34,16 @@ const Header = () => {
 
           <div className="hero_rating">
             <div className="rating">
-                <div className="BiCameraMovies">
-                    <BiCameraMovie size={28} color="#fff" style={{
-                        paddingLeft: '10px'
-                    }}  />
-                </div>
-              
+              <div className="BiCameraMovies">
+                <BiCameraMovie
+                  size={28}
+                  color="#fff"
+                  style={{
+                    paddingLeft: "10px",
+                  }}
+                />
+              </div>
+
               <span className="FaStar">
                 <FaStar size={24} color="#ffffff" /> 7.3
               </span>
@@ -54,11 +62,16 @@ const Header = () => {
               action-packed, fun, and shows how teamwork makes heroes.
             </p>
           </div>
-           <div className="button_link">
-             <span className="watch_now"><FaPlay size={20} 
-              className="faplay" />Watch Now</span>
-             <span className="trailer">Trailer</span>
-            </div>
+          <div className="button_link">
+            <span className="watch_now">
+              <FaPlay size={20} className="faplay" />
+              Watch Now
+            </span>
+            <span className="trailer">
+              <TbMovie size={28}  />
+              Trailer
+            </span>
+          </div>
         </section>
       </div>
     </>

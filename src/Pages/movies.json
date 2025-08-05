@@ -1,0 +1,721 @@
+{
+  "topTrending": [
+    {
+      "title": "Super-man",
+      "image": "https://image.tmdb.org/t/p/w300//ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+      "year": 2004,
+      "rating": 6.5,
+      "genre": "Action"
+    },
+    {
+      "title": "lost",
+      "image": "https://image.tmdb.org/t/p/w300//tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+      "year": 2004,
+      "rating": 7.0,
+      "genre": "Action"
+    },
+    {
+      "title": "Dark land",
+      "image": "https://image.tmdb.org/t/p/w300//ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+      "year": 2003,
+      "rating": 8.8,
+      "genre": "Action"
+    },
+    {
+      "title": "War",
+      "image": "https://image.tmdb.org/t/p/w300//yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "year": 2025,
+      "rating": 7.9,
+      "genre": "Action"
+    },
+    {
+      "title": "Dragon",
+      "image": "https://image.tmdb.org/t/p/w300//q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "year": 2007,
+      "rating": 6.8,
+      "genre": "Action"
+    },
+    {
+      "title": "Game of Thrones",
+      "image": "https://image.tmdb.org/t/p/w300//1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "year": 2010,
+      "rating": 9.5,
+      "genre": "Action"
+    },
+    {
+      "title": "Bride Hard",
+      "image": "https://image.tmdb.org/t/p/w300//3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Weapons",
+      "image": "https://image.tmdb.org/t/p/w300//cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "My Oxford Year",
+      "image": "https://image.tmdb.org/t/p/w300//jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Schindler's List",
+      "image": "https://image.tmdb.org/t/p/w300//sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Wednesday",
+      "image": "https://image.tmdb.org/t/p/w300//kKwy8QiXyQocbDj4haUG0uD1SbF.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Kpop Demon Hunters",
+      "image": "https://image.tmdb.org/t/p/w300//22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Ballerina",
+      "image": "https://image.tmdb.org/t/p/w300//2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Squid Game",
+      "image": "https://image.tmdb.org/t/p/w300//1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Watch What Happens",
+      "image": "https://image.tmdb.org/t/p/w300//onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+
+
+    {
+      "title": "Radio Star",
+      "image": "https://image.tmdb.org/t/p/w300//uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "The GodFather ||",
+      "image": "https://image.tmdb.org/t/p/w300//hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "NE ZHA 2",
+      "image": "https://image.tmdb.org/t/p/w300//293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Trending Movie 7",
+      "image": "https://image.tmdb.org/t/p/w300//kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "The Amazing Race",
+      "image": "https://image.tmdb.org/t/p/w300//x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    },
+    {
+      "title": "Karate Kid",
+      "image": "https://image.tmdb.org/t/p/w300//AEgggzRr1vZCLY86MAp93li43z.jpg",
+      "year": 2006,
+      "rating": 7.1,
+      "genre": "Action"
+    }
+  ],
+  "topRating": [
+    {
+      "title": "Top Rated Movie 1",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+1",
+      "year": 2011,
+      "rating": 9.5,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 2",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+2",
+      "year": 2015,
+      "rating": 6.6,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 3",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+3",
+      "year": 2019,
+      "rating": 6.1,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 4",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+4",
+      "year": 2018,
+      "rating": 7.9,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 5",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+5",
+      "year": 2001,
+      "rating": 9.0,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 6",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+6",
+      "year": 2014,
+      "rating": 7.9,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 7",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+7",
+      "year": 2016,
+      "rating": 7.7,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 8",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+8",
+      "year": 2020,
+      "rating": 8.0,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 9",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+9",
+      "year": 2024,
+      "rating": 7.9,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 10",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+10",
+      "year": 2010,
+      "rating": 8.8,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 11",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+11",
+      "year": 2019,
+      "rating": 7.6,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 12",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+12",
+      "year": 2011,
+      "rating": 6.4,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 13",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+13",
+      "year": 2017,
+      "rating": 9.0,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 14",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+14",
+      "year": 2003,
+      "rating": 7.0,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 15",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+15",
+      "year": 2019,
+      "rating": 8.6,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 16",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+16",
+      "year": 2013,
+      "rating": 6.1,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 17",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+17",
+      "year": 2014,
+      "rating": 8.6,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 18",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+18",
+      "year": 2022,
+      "rating": 6.1,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 19",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+19",
+      "year": 2005,
+      "rating": 7.8,
+      "genre": "Drama"
+    },
+    {
+      "title": "Top Rated Movie 20",
+      "image": "https://placehold.co/300x450?text=Top+Rated+Movie+20",
+      "year": 2012,
+      "rating": 7.4,
+      "genre": "Drama"
+    }
+  ],
+  "popular": [
+    {
+      "title": "Popular Movie 1",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+1",
+      "year": 2007,
+      "rating": 6.5,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 2",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+2",
+      "year": 2008,
+      "rating": 7.7,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 3",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+3",
+      "year": 2019,
+      "rating": 7.0,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 4",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+4",
+      "year": 2004,
+      "rating": 6.9,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 5",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+5",
+      "year": 2019,
+      "rating": 6.6,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 6",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+6",
+      "year": 2003,
+      "rating": 6.2,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 7",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+7",
+      "year": 2024,
+      "rating": 7.6,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 8",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+8",
+      "year": 2012,
+      "rating": 9.0,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 9",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+9",
+      "year": 2021,
+      "rating": 9.5,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 10",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+10",
+      "year": 2017,
+      "rating": 6.1,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 11",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+11",
+      "year": 2017,
+      "rating": 7.0,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 12",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+12",
+      "year": 2006,
+      "rating": 6.4,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 13",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+13",
+      "year": 2000,
+      "rating": 7.3,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 14",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+14",
+      "year": 2010,
+      "rating": 6.1,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 15",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+15",
+      "year": 2023,
+      "rating": 6.5,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 16",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+16",
+      "year": 2002,
+      "rating": 9.8,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 17",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+17",
+      "year": 2005,
+      "rating": 8.6,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 18",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+18",
+      "year": 2020,
+      "rating": 7.4,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 19",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+19",
+      "year": 2001,
+      "rating": 6.4,
+      "genre": "Comedy"
+    },
+    {
+      "title": "Popular Movie 20",
+      "image": "https://placehold.co/300x450?text=Popular+Movie+20",
+      "year": 2017,
+      "rating": 8.3,
+      "genre": "Comedy"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Feature Film 1",
+      "image": "https://placehold.co/300x450?text=Feature+Film+1",
+      "year": 2000,
+      "rating": 7.4,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 2",
+      "image": "https://placehold.co/300x450?text=Feature+Film+2",
+      "year": 2010,
+      "rating": 9.3,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 3",
+      "image": "https://placehold.co/300x450?text=Feature+Film+3",
+      "year": 2017,
+      "rating": 8.3,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 4",
+      "image": "https://placehold.co/300x450?text=Feature+Film+4",
+      "year": 2005,
+      "rating": 7.6,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 5",
+      "image": "https://placehold.co/300x450?text=Feature+Film+5",
+      "year": 2019,
+      "rating": 9.1,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 6",
+      "image": "https://placehold.co/300x450?text=Feature+Film+6",
+      "year": 2022,
+      "rating": 9.6,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 7",
+      "image": "https://placehold.co/300x450?text=Feature+Film+7",
+      "year": 2001,
+      "rating": 9.4,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 8",
+      "image": "https://placehold.co/300x450?text=Feature+Film+8",
+      "year": 2005,
+      "rating": 6.5,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 9",
+      "image": "https://placehold.co/300x450?text=Feature+Film+9",
+      "year": 2018,
+      "rating": 9.4,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 10",
+      "image": "https://placehold.co/300x450?text=Feature+Film+10",
+      "year": 2025,
+      "rating": 6.3,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 11",
+      "image": "https://placehold.co/300x450?text=Feature+Film+11",
+      "year": 2008,
+      "rating": 8.7,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 12",
+      "image": "https://placehold.co/300x450?text=Feature+Film+12",
+      "year": 2017,
+      "rating": 7.1,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 13",
+      "image": "https://placehold.co/300x450?text=Feature+Film+13",
+      "year": 2009,
+      "rating": 8.9,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 14",
+      "image": "https://placehold.co/300x450?text=Feature+Film+14",
+      "year": 2005,
+      "rating": 7.9,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 15",
+      "image": "https://placehold.co/300x450?text=Feature+Film+15",
+      "year": 2003,
+      "rating": 7.9,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 16",
+      "image": "https://placehold.co/300x450?text=Feature+Film+16",
+      "year": 2017,
+      "rating": 8.7,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 17",
+      "image": "https://placehold.co/300x450?text=Feature+Film+17",
+      "year": 2025,
+      "rating": 8.7,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 18",
+      "image": "https://placehold.co/300x450?text=Feature+Film+18",
+      "year": 2002,
+      "rating": 9.2,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 19",
+      "image": "https://placehold.co/300x450?text=Feature+Film+19",
+      "year": 2008,
+      "rating": 8.2,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Feature Film 20",
+      "image": "https://placehold.co/300x450?text=Feature+Film+20",
+      "year": 2010,
+      "rating": 7.7,
+      "genre": "Sci-Fi"
+    }
+  ],
+  "tvSeries": [
+    {
+      "title": "TV Show 1",
+      "image": "https://placehold.co/300x450?text=TV+Show+1",
+      "year": 2001,
+      "rating": 6.6,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 2",
+      "image": "https://placehold.co/300x450?text=TV+Show+2",
+      "year": 2001,
+      "rating": 9.5,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 3",
+      "image": "https://placehold.co/300x450?text=TV+Show+3",
+      "year": 2010,
+      "rating": 7.0,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 4",
+      "image": "https://placehold.co/300x450?text=TV+Show+4",
+      "year": 2008,
+      "rating": 7.7,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 5",
+      "image": "https://placehold.co/300x450?text=TV+Show+5",
+      "year": 2019,
+      "rating": 9.0,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 6",
+      "image": "https://placehold.co/300x450?text=TV+Show+6",
+      "year": 2022,
+      "rating": 6.9,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 7",
+      "image": "https://placehold.co/300x450?text=TV+Show+7",
+      "year": 2005,
+      "rating": 6.4,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 8",
+      "image": "https://placehold.co/300x450?text=TV+Show+8",
+      "year": 2011,
+      "rating": 7.4,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 9",
+      "image": "https://placehold.co/300x450?text=TV+Show+9",
+      "year": 2025,
+      "rating": 7.3,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 10",
+      "image": "https://placehold.co/300x450?text=TV+Show+10",
+      "year": 2014,
+      "rating": 8.4,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 11",
+      "image": "https://placehold.co/300x450?text=TV+Show+11",
+      "year": 2020,
+      "rating": 9.0,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 12",
+      "image": "https://placehold.co/300x450?text=TV+Show+12",
+      "year": 2023,
+      "rating": 9.1,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 13",
+      "image": "https://placehold.co/300x450?text=TV+Show+13",
+      "year": 2021,
+      "rating": 9.0,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 14",
+      "image": "https://placehold.co/300x450?text=TV+Show+14",
+      "year": 2008,
+      "rating": 7.7,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 15",
+      "image": "https://placehold.co/300x450?text=TV+Show+15",
+      "year": 2021,
+      "rating": 9.4,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 16",
+      "image": "https://placehold.co/300x450?text=TV+Show+16",
+      "year": 2017,
+      "rating": 8.0,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 17",
+      "image": "https://placehold.co/300x450?text=TV+Show+17",
+      "year": 2006,
+      "rating": 9.7,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 18",
+      "image": "https://placehold.co/300x450?text=TV+Show+18",
+      "year": 2015,
+      "rating": 6.9,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 19",
+      "image": "https://placehold.co/300x450?text=TV+Show+19",
+      "year": 2015,
+      "rating": 8.3,
+      "genre": "Thriller"
+    },
+    {
+      "title": "TV Show 20",
+      "image": "https://placehold.co/300x450?text=TV+Show+20",
+      "year": 2018,
+      "rating": 9.7,
+      "genre": "Thriller"
+    }
+  ]
+}

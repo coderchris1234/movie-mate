@@ -147,7 +147,7 @@
     padding: 8px 35px;
     border-radius: 20px;
     background-color: none;
-    border: 2px solid  #4C97CC;
+    border: 1px solid  #4C97CC;
     margin-top: 20px;
     display: inline-block;
     color: white;
@@ -171,16 +171,19 @@
 .trailer{
     padding: 8px 55px;
     border-radius: 20px;
-    background-color: none;
-    border: 2px solid  #4C97CC;
+    border: 1px solid  rgb(100, 100, 100);
     margin-top: 20px;
     display: inline-block;
-    color: #4C97CC;
+    color: #999fa3;
     font-size: 14px;
     cursor: pointer;
     transition: color 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
 }
 .trailer:hover{
-    background-color: #4C97CC;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }

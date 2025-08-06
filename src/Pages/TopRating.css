@@ -20,13 +20,23 @@
    background-color: #5FBDFF;
    border: none;
 }
-.series{
+.tv-series{
+    display: flex;
+    background-color: #111111;
+    justify-content: center;
+    align-items: center;
     border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 8px 10px;
+    gap:5px;
+    color: #575656;
+}
+/* .series{
+    
    padding: 8px 10px;
    border-radius: 3px;
-   background-color: #535252;
    border: none; 
-}
+} */
 .movie-list{
     display: flex;
     /* background-color: black; */

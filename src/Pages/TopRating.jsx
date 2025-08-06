@@ -10,8 +10,11 @@ const TopRating = () => {
         <h2 className="headingH2">Top Rating</h2>
         <div className="i">
           <span style={{marginRight: "10px"}} className="play"><FaPlay size={15}/>Movies</span>
-          <span className="series"><MdTv size={17} color="#000"/>TV-Series</span>
         </div>
+        <div className="tv-series">
+            <MdTv size={17} color="#000"/>
+             <span className="series">TV-Series</span>
+          </div>
       </div>
       <div className="movie-list">
         {moviesData2.topRating.map((movie, index) => (
